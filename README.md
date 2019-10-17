@@ -4,3 +4,4 @@ I'm just playing around learning about git...
 updating in the pull request
 Now I'm updating in the mac update branch.  Lets see if it works.
 
+4 bugs fixed with this pull request
